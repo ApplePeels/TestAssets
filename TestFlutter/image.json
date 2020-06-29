@@ -1,0 +1,8 @@
+{
+	"imageList":[
+		{
+			"image":"../Resources/image1",
+			"assets":"../TestFlutter.xcassets"
+		}
+	]	
+}
